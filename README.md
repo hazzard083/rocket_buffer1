@@ -1,31 +1,36 @@
-# Painel Login
+## System Login
 
--> Usuário, Senha, Email, Alterar/Recuperar senha, Dados inválidos, Changelogs.
+> Usuário, Senha, Email, Alterar/Recuperar senha, Dados inválidos, Changelogs.
 
-> Usuário: [x]
+- Usuário: [x]
 Nome do usuário
 
-> Senha: [x]
+- Senha: [x]
 Senha do usuário
 
-> Email: [x]
+- Email: [x]
 Usado para que o jogador possa Alterar/Recuperar senha.
 
-> Alterar senha: [x]
+- Alterar senha: [x]
 Caso o jogador deseje alterar sua senha.
 
-> Recuperar Senha: [x]
+- Recuperar Senha: [x]
 Caso o jogador precise recuperar sua senha, há uma opção que enviará um email para que ele possa alterá-la.
 
-> Dados Inválidos: [x]
+- Dados Inválidos: [x]
 Se o jogador inserir um dado inválido, será exibida uma mensagem na tela.
 
-> Changelogs: [x]
+- Changelogs: [x]
 Exibe as atualizações mais recentes realizadas no servidor.
 
-x, y = 1920x1080 
-DeleteAccount = OnlyAdmin
-ChangePassword = true
-RecoverPassword = true
+### Permissions
+- x, y = 1920x1080 
+- DeleteAccount = OnlyAdmin
+- ChangePassword = true
+- RecoverPassword = true
 
-Stacks: LUA: Eventos, formatos de desenhos, imagens
+### Stacks: 
+- LUA 
+- Eventos
+- Formatos de desenhos
+- Imagens
