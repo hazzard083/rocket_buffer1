@@ -34,3 +34,5 @@ Exibe as atualizações mais recentes realizadas no servidor.
 - Eventos
 - Formatos de desenhos
 - Imagens
+
+> Status: Developing ⚠️
